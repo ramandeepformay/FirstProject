@@ -3,7 +3,7 @@ namespace FirstProject
 {
     public class sum
     {
-         static void Main(string[] args)
+         static void Main2(string[] args)
         {
             System.Console.WriteLine("Enter the two nos. to get the sum");
             var num1 = gatherInput();
